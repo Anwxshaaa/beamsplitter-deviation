@@ -2,7 +2,7 @@
 
 ## Michelson Configuration based on parameters measured in the lab using FINESSE 3
 
-In this project I tried plotting the interference pattern of the beam splitter used in the experiment using [`finesse`] (https://finesse.ifosim.org/docs/latest/examples/01_simple_cav.html) package
+In this project I tried plotting the interference pattern of the beam splitter used in the experiment using [`finesse`]([https://git.ligo.org/gwinc/pygwinc](https://finesse.ifosim.org/docs/latest/examples/01_simple_cav.html)) package
 
 🎯 Aim: To analyse the deviation of real split ratios in the three 50:50 beam splitters from ideal condition
 
