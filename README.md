@@ -17,6 +17,6 @@ package
     - `L` → arm length = 25cm
     - `R` → reflectance = 1
     - `pow_out` → power output
- - The mirror phase was swept from 0$\degree$ - 360$\degree$
+ - The mirror phase was swept from 0&deg - 360&deg
 
 🛰️ This work was submitted as part of my MSc dissertation on Laser Interferometry for Gravitational Wave Detection at the University of Glasgow.
