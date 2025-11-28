@@ -11,4 +11,11 @@ In this project I tried plotting the interference pattern of the beam splitter u
 - Using `finesse`, I configured the environment
 - I created a basic Michelson model (laser → BS → two arms → mirrors; detector on the fourth port)
 - The parameters considered are:
-    - `l` →
+    - `l` → laser = 2mW
+    - `bs` → beam splitter (50:50)
+    - `L` → arm length = 25cm
+    - `R` → reflectance = 1
+    - `pow_out` → power output
+ - The mirror phase was swept from 0$\degree$ - 360$\degree$
+
+🛰️ This work was submitted as part of my MSc dissertation on Laser Interferometry for Gravitational Wave Detection at the University of Glasgow.
